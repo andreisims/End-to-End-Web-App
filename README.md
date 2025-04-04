@@ -18,3 +18,16 @@
 5. Amazon DynamoDB – NoSQL database
 6. IAM (Identity & Access Management) – Secure access control
 7. Github - for version control
+8. Text editor
+
+#### Scenario:
+A client has hired you to build an application and he/she has provided you with a list of requirements.
+<li>A way to store/update/pull code (Github)</li>
+<li>Place to host the website and make updates</li>
+<li>A way for users to register and log into the app</li>
+<li>System that allows users to request, track, and manage rides in real-time</li>
+<li>Secure storage for all ride information, allowing users to view past trips and receipts anytime</li>
+<li>A way to invoke the ride sharing functionality</li>
+
+#### Step 1: fork repo into your Github repository
+i. repo URL is https://github.com/tinytechnicaltutorials/wildrydes-site
